@@ -1,0 +1,3 @@
+- A common example of an indigestible [[Polysaccharide]] made of repeating units of [[Glucose]].
+- Humans lack the [[Enzyme]] necessary to digest [[Cellulose]].
+- It is an important form of dietary fiber in the human diet.

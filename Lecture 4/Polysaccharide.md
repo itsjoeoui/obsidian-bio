@@ -1,0 +1,9 @@
+- They are made up of chains of [[Monosaccharide]]s (the sugars) which are linked together by glycosidic bonds, which are formed by the condensation reaction.
+- [[Polymer]]s of simple sugar [[Glucose]]: [[Starch]], [[Glycogen]], [[Cellulose]].
+---
+- [[Polysaccharide]]s play diverse and important roles within the biology of life processes; however, they can be divided into two broad groups.
+	- A. [[Polysaccharide]]s used as energy stores
+		- [[Starch]] in plants and [[Glycogen]] in animals
+	- B. Structural [[Polysaccharide]]s
+		- Chitin
+		- [[Cellulose]]

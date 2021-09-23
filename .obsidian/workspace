@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "21038140c0f4bcfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "3df0b1ebd453150f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lecture 4/Amino acid.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d1b8a5d0500581f",
+    "type": "split",
+    "children": [
+      {
+        "id": "75b8ddeabe3b67fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57b720ed9b789dea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b1842f2e225f30c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Poly",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "45d12f1edab05f3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "757575476b786001",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c9bab79283fe03e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lecture 4/Amino acid.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "3df0b1ebd453150f",
+  "lastOpenFiles": [
+    "Lecture 4/Amino acid.md",
+    "Lecture 4/Polysaccharide.md",
+    "Lecture 4/Starch.md",
+    "Lecture 4/Protein.md",
+    "Lecture 4/Disaccharide.md",
+    "Lecture 4/Sucrose.md",
+    "Lecture 4/Polypeptide.md",
+    "Lecture 4/Polymer.md",
+    "Lecture 4/Nucleotide.md",
+    "Lecture 4/Nucleic acid.md"
+  ]
+}

@@ -1,0 +1,4 @@
+- Although cells are 70-95% water, the rest consists mostly of carbon-based compounds.
+- It has ability to form large, complex and diverse molecules.
+- [[Protein]], [[DNA]], and [[Carbohydrate]] are composed of carbon compounds (organic compounds).
+- Carbon has 4 valence electrons. And it can make up to 4 bonds usually single or double bonds.
