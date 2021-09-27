@@ -1,0 +1,78 @@
+{
+  "main": {
+    "id": "007b6fd1206fa942",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c5231bd2bde4213",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lecture 4/Amino acid.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6beeb2a134297593",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8f78a7510aa74bc3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "274dc7735da0dfe3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "797bdb1961df72ab",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2d1d5387decf7e7c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Lecture 4/Amino acid.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "9c5231bd2bde4213",
+  "lastOpenFiles": [
+    "Lecture 4/Amino acid.md"
+  ]
+}

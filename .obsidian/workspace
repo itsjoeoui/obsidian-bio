@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Lecture 4/Amino acid.md",
+            "file": "Lecture 1/4. Regulation (Homeostasis).md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Poly",
+                "query": "triacy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 4/Amino acid.md",
+                "file": "Lecture 1/4. Regulation (Homeostasis).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -87,15 +87,15 @@
   },
   "active": "3df0b1ebd453150f",
   "lastOpenFiles": [
-    "Lecture 4/Amino acid.md",
-    "Lecture 4/Polysaccharide.md",
-    "Lecture 4/Starch.md",
-    "Lecture 4/Protein.md",
-    "Lecture 4/Disaccharide.md",
-    "Lecture 4/Sucrose.md",
-    "Lecture 4/Polypeptide.md",
-    "Lecture 4/Polymer.md",
-    "Lecture 4/Nucleotide.md",
-    "Lecture 4/Nucleic acid.md"
+    "Lecture 1/4. Regulation (Homeostasis).md",
+    "Lecture 1/3. Energy utilization.md",
+    "Lecture 1/2. Grow and develop.md",
+    "Lecture 1/1. Order.md",
+    "Lecture 1/7. Evolve and adapt.md",
+    "Lecture 1/6. Reproduce.md",
+    "Lecture 1/5. Respond to stimuli.md",
+    "Lecture 1/5. Regulation (Homeostasis).md",
+    "Lecture 1/Respond to stimuli.md",
+    "Lecture 1/Regulation (Homeostasis).md"
   ]
 }

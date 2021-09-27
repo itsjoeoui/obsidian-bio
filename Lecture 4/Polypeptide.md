@@ -1,0 +1,1 @@
+- A [[Polypeptide]] is a [[Polymer]] of [[Amino acid]]s

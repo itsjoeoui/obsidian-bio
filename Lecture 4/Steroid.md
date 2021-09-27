@@ -1,0 +1,8 @@
+- A unique group of [[Lipid]]s that consist of four interlocking [[Carbon]] rings compounds attached to molecules that vary from one [[Steroid]] to the next
+- [[Steroid]]s are [[Lipid]]s derived from cholesterol
+- Differ in number, position and composition of side chains
+- Example: Hormones
+	- A hormones is a compound released by specific cells in one area of the organism that sends out messages that affect cells in other parts of the organism.
+		- growth hormone
+		- sex hormones: testosterone, estrogen, progesterone
+	- Because steroids are [[Lipid]] soluble, they can diffuse fairly freely from the blood through the cell membrane and into the cytoplasm of target cells.
