@@ -1,1 +1,0 @@
-- A [[Triacylglycerol]] (triglyceride) is composed of three [[Fatty acid]]s + glycerol via an ester bond

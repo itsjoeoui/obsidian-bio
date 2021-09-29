@@ -1,2 +1,2 @@
-- [[Monomer]] is the single unit.
+- Monomer is the single unit.
 - Example: [[Glucose]], [[Amino acid]], and [[Nucleotide]]

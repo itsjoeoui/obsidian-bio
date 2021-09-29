@@ -1,4 +1,0 @@
-- Fatty acids are the building blocks of the fat in our bodies and in the food we eat. During digestion, the body breaks down fats into fatty acids, which can then be absorbed into the blood. Fatty acid molecules are usually joined together in groups of three, forming a molecule called a **triglyceride**. Triglycerides are also made in our bodies from the carbohydrates that we eat.
-- The [[Fatty acid]] tail hold a lot of energy
-- [[Fatty acid]] tails varies in length therefore diversity
-- [[Fatty acid]]s vary in length (# of [[Carbon]]s) and in the # and locations of double bonds

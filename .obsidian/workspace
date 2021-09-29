@@ -7,11 +7,8 @@
         "id": "5d0ca063987ef356",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Lecture 3/6. Scientific method.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "triacy",
+                "query": "maltose",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,14 +65,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 3/6. Scientific method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -83,19 +79,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 264
   },
   "active": "5d0ca063987ef356",
   "lastOpenFiles": [
-    "Lecture 3/6. Scientific method.md",
-    "Lecture 2/0. Biological Concepts.md",
-    "Lecture 2/5. Evolution.md",
-    "Lecture 2/6. Scientific method.md",
-    "Lecture 1/Properties of Life.md",
-    "Lecture 2/Biological Concepts.md",
-    "Lecture 2/4. Biological classification.md",
-    "Lecture 2/3. Information transfer.md",
-    "Lecture 2/2. Ecosystem dynamics.md",
-    "Lecture 2/1. Biological hierarchy.md"
+    "Lecture 4/Carbon.md",
+    "Lecture 4/Glucose.md",
+    "Lecture 4/Carbohydrate.md",
+    "Lecture 4/Cellulose.md",
+    "Lecture 4/Polysaccharide.md",
+    "Lecture 4/Steroid.md",
+    "Lecture 4/Starch.md",
+    "Lecture 4/Protein.md",
+    "Lecture 4/Polypeptide.md",
+    "Lecture 4/Polymer.md"
   ]
 }

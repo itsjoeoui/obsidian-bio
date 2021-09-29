@@ -1,1 +1,1 @@
-- [[Glucose]] is the most abundant [[Monosaccharide]], a subcategory of [[Carbohydrate]]s.
+- Glucose is the most abundant monosaccharide, a subcategory of [[Carbohydrate]]s.

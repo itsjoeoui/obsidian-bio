@@ -1,5 +1,5 @@
-- [[Monosaccharide]]s serve as a major fuel for cells and as raw material for building molecules
+- Monosaccharides serve as a major fuel for cells and as raw material for building molecules
 - Example: [[Glucose]], [[Fructose]] and [[Galactose]]
-- Both simple sugars [[Glucose]] and [[Fructose]] contain 6 [[Carbon]] atoms, 12 hydrogen atoms, and 6 oxygen atoms.
+- Both simple sugars [[Glucose]] and [[Fructose]] contain 6 carbon atoms, 12 hydrogen atoms, and 6 oxygen atoms.
 - They both share the same chemical formula C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>. The difference is in how the atoms are arranged in each molecule.
-- Substances which have identical molecular formulas but different structural formulas are called **structural isomers**
+- Substances which have ==identical molecular formulas== but ==different structural formulas== are called ==structural isomers==
