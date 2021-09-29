@@ -7,8 +7,11 @@
         "id": "5d0ca063987ef356",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Lecture 5/DNA.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lecture 5/DNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +87,8 @@
   },
   "active": "5d0ca063987ef356",
   "lastOpenFiles": [
+    "Lecture 5/DNA.md",
+    "FG_05_007.png",
     "Lecture 4/Carbon.md",
     "Lecture 4/Glucose.md",
     "Lecture 4/Carbohydrate.md",
@@ -90,8 +96,6 @@
     "Lecture 4/Polysaccharide.md",
     "Lecture 4/Steroid.md",
     "Lecture 4/Starch.md",
-    "Lecture 4/Protein.md",
-    "Lecture 4/Polypeptide.md",
-    "Lecture 4/Polymer.md"
+    "Lecture 4/Protein.md"
   ]
 }
